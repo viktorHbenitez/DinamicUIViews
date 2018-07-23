@@ -13,8 +13,6 @@
 		E45C4B5E21056E2D0034700C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E45C4B5D21056E2D0034700C /* Assets.xcassets */; };
 		E45C4B6121056E2D0034700C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E45C4B5F21056E2D0034700C /* LaunchScreen.storyboard */; };
 		E45C4B6421056E2D0034700C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E45C4B6321056E2D0034700C /* main.m */; };
-		E45C4B6B21056E480034700C /* DataNewReferences.xib in Resources */ = {isa = PBXBuildFile; fileRef = E45C4B6A21056E480034700C /* DataNewReferences.xib */; };
-		E45C4B6E21056E5A0034700C /* DataNewReferences.m in Sources */ = {isa = PBXBuildFile; fileRef = E45C4B6D21056E5A0034700C /* DataNewReferences.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,9 +26,6 @@
 		E45C4B6021056E2D0034700C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E45C4B6221056E2D0034700C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E45C4B6321056E2D0034700C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		E45C4B6A21056E480034700C /* DataNewReferences.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DataNewReferences.xib; sourceTree = "<group>"; };
-		E45C4B6C21056E5A0034700C /* DataNewReferences.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DataNewReferences.h; sourceTree = "<group>"; };
-		E45C4B6D21056E5A0034700C /* DataNewReferences.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DataNewReferences.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,9 +67,6 @@
 				E45C4B5F21056E2D0034700C /* LaunchScreen.storyboard */,
 				E45C4B6221056E2D0034700C /* Info.plist */,
 				E45C4B6321056E2D0034700C /* main.m */,
-				E45C4B6A21056E480034700C /* DataNewReferences.xib */,
-				E45C4B6C21056E5A0034700C /* DataNewReferences.h */,
-				E45C4B6D21056E5A0034700C /* DataNewReferences.m */,
 			);
 			path = DinamicDataReferences;
 			sourceTree = "<group>";
@@ -136,7 +128,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E45C4B6B21056E480034700C /* DataNewReferences.xib in Resources */,
 				E45C4B6121056E2D0034700C /* LaunchScreen.storyboard in Resources */,
 				E45C4B5E21056E2D0034700C /* Assets.xcassets in Resources */,
 				E45C4B5C21056E2B0034700C /* Main.storyboard in Resources */,
@@ -150,7 +141,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E45C4B6E21056E5A0034700C /* DataNewReferences.m in Sources */,
 				E45C4B5921056E2B0034700C /* ViewController.m in Sources */,
 				E45C4B6421056E2D0034700C /* main.m in Sources */,
 				E45C4B5621056E2B0034700C /* AppDelegate.m in Sources */,

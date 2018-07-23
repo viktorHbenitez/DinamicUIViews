@@ -7,13 +7,8 @@
 //
 
 #import "ViewController.h"
-#import "DataNewReferences.h"
 
-@interface ViewController (){
-    
-    DataNewReferences *dataNewReferences;
-
-}
+@interface ViewController ()
 
 @end
 
